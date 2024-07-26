@@ -1,6 +1,7 @@
 2.	Jelaskan apa yang dimaksud dengan unsupervised learning
 
 Jawab
+
 Unsupervised learning adalah salah satu jenis metode pembelajaran dalam machine learning, di mana model dilatih menggunakan data yang tidak berlabel. Artinya, model tidak diberikan jawaban atau target yang benar saat proses pelatihan, sehingga model harus menemukan struktur dan pola yang tersembunyi dalam data secara mandiri. Unsupervised learning sering digunakan untuk pengelompokan (clustering), pengurangan dimensi (dimensionality reduction), dan deteksi anomali. Berikut adalah penjelasan beberapa konsep kunci dalam unsupervised learning:
 -	Clustering 
 •	Definisi	
