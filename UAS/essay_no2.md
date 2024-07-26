@@ -3,12 +3,12 @@
 Jawab
 
 Unsupervised learning adalah salah satu jenis metode pembelajaran dalam machine learning, di mana model dilatih menggunakan data yang tidak berlabel. Artinya, model tidak diberikan jawaban atau target yang benar saat proses pelatihan, sehingga model harus menemukan struktur dan pola yang tersembunyi dalam data secara mandiri. Unsupervised learning sering digunakan untuk pengelompokan (clustering), pengurangan dimensi (dimensionality reduction), dan deteksi anomali. Berikut adalah penjelasan beberapa konsep kunci dalam unsupervised learning:
--	Clustering 
-•	Definisi	
+-	Clustering
+  •	Definisi	
 Merupakan proses mengelompokkan data ke dalam kelompok. Data yang dimasukkan akan dicocokkan dan dimasukkan ke dalam kolompok data yang paling mirip dengan data.
-•	Contoh Algoritma
+  • Contoh Algoritma
 K-Means, dan CNN.
-•	Aplikasi
+  •	Aplikasi
 Pengelompokan jenis binatang berdasarkan anatomi tubuh atau tingkat bahayanya berdasarkan dataset citra.
 
 -	Dimensionality Reduction
